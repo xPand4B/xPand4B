@@ -1,4 +1,4 @@
-# Hello, there! <img src="https://raw.githubusercontent.com/xPand4B/xPand4B/master/wave.gif" width="30px">
+# Hello, there! <img src="https://raw.githubusercontent.com/xPand4B/xPand4B/main/wave.gif" width="30px">
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Frameworks-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=EF3A2D)
