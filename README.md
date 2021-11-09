@@ -1,4 +1,5 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/xPand4B/xPand4B/main/wave.gif" width="30px">
+My name is Eric, I'm from germany, 23 years old and an enthusiastic developer/programmer.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Frameworks-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=EF3A2D)
