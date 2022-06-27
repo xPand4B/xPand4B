@@ -34,13 +34,3 @@ My name is Eric, I'm from germany, 23 years old and an enthusiastic developer/pr
     alt="Eric's GitHub Stats"
   />
 </a>
-
-<br>
-
-#<a href="https://wakatime.com/@xPand">
-#  <img
-#    align="center"
-#    src="https://github-readme-stats.vercel.app/api/wakatime?username=xPand&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-#    alt="Eric's Wakatime Stats"
-#  />
-#</a>
