@@ -1,7 +1,6 @@
+<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/xPand4B/xPand4B/main/wave.gif" width="45px" height="45px"></h1>
+
 <div align="center">
-  <h1>
-    Hello, there! <img src="https://raw.githubusercontent.com/xPand4B/xPand4B/main/wave.gif" width="45px" height="45px">
-  </h1>
   My name is Eric, I'm from germany, 23 years old and an enthusiastic developer/programmer.
 
   <h2>🔧 Technologies & Tools</h2>
