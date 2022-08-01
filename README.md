@@ -1,9 +1,8 @@
 <div align="center">
-  <h1>Hello, there! <img src="https://raw.githubusercontent.com/xPand4B/xPand4B/main/wave.gif" width="45px" height="45px"></h1>
-  
+  <h1>
+    Hello, there! <img src="https://raw.githubusercontent.com/xPand4B/xPand4B/main/wave.gif" width="45px" height="45px">
+  </h1>
   My name is Eric, I'm from germany, 23 years old and an enthusiastic developer/programmer.
-  
-  <br>
 
   <h2>🔧 Technologies & Tools</h2>
 
@@ -12,7 +11,7 @@
   <img src="https://img.shields.io/badge/Shopware-informational?style=for-the-badge&logo=shopware&logoColor=white&color=189EFF">
   <img src="https://img.shields.io/badge/Pimcore-informational?style=for-the-badge&logo=pimcore&logoColor=white&color=6428B4">
 
-  <hr>
+  ---
 
   <img src="https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=777BB3">
   <img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7E018">
@@ -20,23 +19,23 @@
   <img src="https://img.shields.io/badge/CSharp-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=A076DB">
   <img src="https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=gradle&logoColor=white&color=4C7491">
   
-  <hr>
+  ---
   
   <img src="https://img.shields.io/badge/Unit%20Testing-informational?style=for-the-badge&logoColor=white&color=777BB3">
   <img src="https://img.shields.io/badge/E2E%20Testing-informational?style=for-the-badge&logoColor=white&color=777BB3">
   <img src="https://img.shields.io/badge/Project%20Pipelines-informational?style=for-the-badge&logoColor=white&color=777BB3">
   
-  <hr>
+  ---
   
   <img src="https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=066DA5">
   <img src="https://img.shields.io/badge/Valet-informational?style=for-the-badge&logo=laravel&logoColor=white&color=EF3A2D">
   <img src="https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=282D30">
-  <hr>
+  
+  ---
+  
   <img src="https://img.shields.io/badge/MacOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=90A4AE">
   <img src="https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=90A4AE">
   <img src="https://img.shields.io/badge/Windoofs-informational?style=for-the-badge&logo=windows&logoColor=white&color=90A4AE">
-  
-  <br><br>
   
   <h2>&#x1f4c8; GitHub Stats</h2>
   <a href="https://github.com/xPand4B/xPand4B">
