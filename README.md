@@ -1,13 +1,20 @@
-<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/xPand4B/xPand4B/main/wave.gif" width="45px" height="45px"></h1>
+<h1 align="center">
+  Hello there!
+  <img src="https://raw.githubusercontent.com/xPand4B/xPand4B/main/wave.gif" width="45px" height="45px"/>
+</h1>
 
 <div align="center">
   My name is Eric, I'm from germany, build at `98 and an enthusiastic developer/programmer.
   <h2>👥 Social Platforms</h2>
 
-  <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2">
-  <img src="https://img.shields.io/badge/Xing-informational?style=for-the-badge&logo=xing&logoColor=white&color=007B80">
+  <a href="https://www.linkedin.com/in/eric-heinzl/">
+    <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2">
+  </a>
+  <a href="https://www.xing.com/profile/Eric_Heinzl/cv">
+    <img src="https://img.shields.io/badge/Xing-informational?style=for-the-badge&logo=xing&logoColor=white&color=007B80">
+  </a>
   
-  </h2>
+  <br/>
   
   <h2>🔧 Technologies & Tools</h2>
   
