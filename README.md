@@ -1,10 +1,16 @@
 <h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/xPand4B/xPand4B/main/wave.gif" width="45px" height="45px"></h1>
 
 <div align="center">
-  My name is Eric, I'm from germany, 23 years old and an enthusiastic developer/programmer.
+  My name is Eric, I'm from germany, build at `98 and an enthusiastic developer/programmer.
+  <h2>👥 Social Platforms</h2>
 
+  <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2">
+  <img src="https://img.shields.io/badge/Xing-informational?style=for-the-badge&logo=xing&logoColor=white&color=007B80">
+  
+  </h2>
+  
   <h2>🔧 Technologies & Tools</h2>
-
+  
   <img src="https://img.shields.io/badge/Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=EF3A2D">
   <img src="https://img.shields.io/badge/Symfony-informational?style=for-the-badge&logo=symfony&logoColor=white&color=202227">
   <img src="https://img.shields.io/badge/Shopware-informational?style=for-the-badge&logo=shopware&logoColor=white&color=189EFF">
@@ -20,7 +26,7 @@
   
   ---
   
-  <img src="https://img.shields.io/badge/Unit%20Testing-informational?style=for-the-badge&logoColor=white&color=777BB3">
+  <img src="https://img.shields.io/badge/TDD-informational?style=for-the-badge&logoColor=white&color=777BB3">
   <img src="https://img.shields.io/badge/E2E%20Testing-informational?style=for-the-badge&logoColor=white&color=777BB3">
   <img src="https://img.shields.io/badge/Project%20Pipelines-informational?style=for-the-badge&logoColor=white&color=777BB3">
   
