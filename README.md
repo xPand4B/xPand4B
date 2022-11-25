@@ -7,10 +7,10 @@
   My name is Eric, I'm from germany, build at `98 and an enthusiastic developer/programmer.
   <h2>👥 Social Platforms</h2>
 
-  <a href="https://www.linkedin.com/in/eric-heinzl/">
+  <a href="https://www.linkedin.com/in/eric-heinzl/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2">
   </a>
-  <a href="https://www.xing.com/profile/Eric_Heinzl/cv">
+  <a href="https://www.xing.com/profile/Eric_Heinzl/cv" target="_blank">
     <img src="https://img.shields.io/badge/Xing-informational?style=for-the-badge&logo=xing&logoColor=white&color=007B80">
   </a>
   
