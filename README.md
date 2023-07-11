@@ -34,8 +34,8 @@
   ---
   
   <img src="https://img.shields.io/badge/TDD-informational?style=for-the-badge&logoColor=white&color=777BB3">
-  <img src="https://img.shields.io/badge/E2E%20Testing-informational?style=for-the-badge&logoColor=white&color=777BB3">
-  <img src="https://img.shields.io/badge/Project%20Pipelines-informational?style=for-the-badge&logoColor=white&color=777BB3">
+  <img src="https://img.shields.io/badge/Unit&#8725E2E%20Testing-informational?style=for-the-badge&logoColor=white&color=777BB3">
+  <img src="https://img.shields.io/badge/CI&#8725CD%20Pipelines-informational?style=for-the-badge&logoColor=white&color=777BB3">
   
   ---
   
