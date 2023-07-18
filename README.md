@@ -7,6 +7,9 @@
   My name is Eric, I'm from germany, build at `98 and an enthusiastic developer/programmer.
   <h2>👥 Social Platforms</h2>
 
+  <a href="https://github.com/xPand4B" target="_blank">
+    <img src="https://img.shields.io/badge/Github-informational?style=for-the-badge&logo=github&logoColor=white&color=171515">
+  </a>
   <a href="https://www.linkedin.com/in/eric-heinzl/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2">
   </a>
@@ -17,17 +20,31 @@
   <br/>
   
   <h2>🔧 Technologies & Tools</h2>
-  
-  <img src="https://img.shields.io/badge/Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=EF3A2D">
-  <img src="https://img.shields.io/badge/Symfony-informational?style=for-the-badge&logo=symfony&logoColor=white&color=202227">
-  <img src="https://img.shields.io/badge/Shopware-informational?style=for-the-badge&logo=shopware&logoColor=white&color=189EFF">
-  <img src="https://img.shields.io/badge/Pimcore-informational?style=for-the-badge&logo=pimcore&logoColor=white&color=6428B4">
+
+  <a href="https://laravel.com" target="_blank">
+    <img src="https://img.shields.io/badge/Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=EF3A2D">
+  </a>
+  <a href="https://symfony.com" target="_blank">
+    <img src="https://img.shields.io/badge/Symfony-informational?style=for-the-badge&logo=symfony&logoColor=white&color=202227">
+  </a>
+  <a href="https://shopware.com" target="_blank">
+    <img src="https://img.shields.io/badge/Shopware-informational?style=for-the-badge&logo=shopware&logoColor=white&color=189EFF">
+  </a>
+  <a href="https://pimcore.com" target="_blank">
+    <img src="https://img.shields.io/badge/Pimcore-informational?style=for-the-badge&logo=pimcore&logoColor=white&color=6428B4">
+  </a>
 
   ---
-
-  <img src="https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=777BB3">
-  <img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7E018">
-  <img src="https://img.shields.io/badge/Vue-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=3FBA84">
+  
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=777BB3">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7E018">
+  </a>
+  <a href="https://vuejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/Vue-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=3FBA84">
+  </a>
   <img src="https://img.shields.io/badge/CSharp-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=A076DB">
   <img src="https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=gradle&logoColor=white&color=4C7491">
   
@@ -38,9 +55,13 @@
   <img src="https://img.shields.io/badge/CI&#8725CD%20Pipelines-informational?style=for-the-badge&logoColor=white&color=777BB3">
   
   ---
-  
-  <img src="https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=066DA5">
-  <img src="https://img.shields.io/badge/Valet-informational?style=for-the-badge&logo=laravel&logoColor=white&color=EF3A2D">
+
+  <a href="https://hub.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=066DA5">
+  </a>
+  <a href="https://laravel.com/docs/valet" target="_blank">
+    <img src="https://img.shields.io/badge/Valet-informational?style=for-the-badge&logo=laravel&logoColor=white&color=EF3A2D">
+  </a>
   <img src="https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=282D30">
   
   ---
