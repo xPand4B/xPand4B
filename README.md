@@ -137,6 +137,16 @@
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
       <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/>
     </a>
+    <br>
+    <a href="https://octoprint.org/" target="_blank" rel="noreferrer">
+      <img src="https://global.discourse-cdn.com/standard14/uploads/core_electronics/original/1X/600c265287815b9b5cd2b3505e48d63e008a9465.png" alt="octoprint" width="60" height="60"/>
+    </a>
+    <a href="https://www.home-assistant.io/" target="_blank" rel="noreferrer"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg" alt="home-assistant" width="60" height="60"/> 
+    </a>
+    <a href="https://esphome.io/index.html" target="_blank" rel="noreferrer"> 
+      <img src="https://pedja.supurovic.net/wp-content/uploads/2022/12/esphome-logo-150x150.png" alt="esp-home" width="60" height="60"/> 
+    </a>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/>
     </a>
